@@ -1,3 +1,3 @@
-module github.com/anusornc/go-network/go-chat
+module github.com/Danai004/go_netwoek
 
 go 1.20
